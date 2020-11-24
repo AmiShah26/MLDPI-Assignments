@@ -1,2 +1,3 @@
 # MLDPI-Assignments
-Assignments submission - "Machine Learning Masters with Deep Learning and Internship"
+
+Repository for assignment submission of "Machine Learning Masters with Deep Learning and Internship" course.
